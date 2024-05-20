@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class ContaTerminal {
+public class BancoTerminal {
 
     public static void main(String[] args) throws Exception {
         double saldo = new Scanner(System.in).nextDouble();
